@@ -1,0 +1,16 @@
+{
+  "id": "2459698",
+  "name": "Setter",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9709602",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    }
+  ]
+}
