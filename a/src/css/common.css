@@ -1,11 +1,15 @@
-html,body,#app {
+html,
+body,
+#app {
     height: 100%;
     margin: 0;
     padding: 0;
     min-width: 1366px;
-    user-select:none;
+    user-select: none;
 }
-.el-header, .el-footer {
+
+.el-header,
+.el-footer {
     /*background-color: #B3C0D1;*/
     /*color: #333;*/
     text-align: justify;
@@ -27,8 +31,12 @@ html,body,#app {
     padding: 0;
 }
 
-body > .el-container {
+body>.el-container {
     margin-bottom: 40px;
+
+}
+.el-container{
+    margin-left: 200px;
 }
 
 .el-container:nth-child(5) .el-aside,
@@ -38,4 +46,27 @@ body > .el-container {
 
 .el-container:nth-child(7) .el-aside {
     line-height: 320px;
+}
+
+.el-dropdown-menu{
+    color: black;
+    z-index: 2000;
+}
+.el-dropdown-menu span{
+    color: #b8b8b8;
+}
+.el-dropdown-item{
+    text-align: left;
+}
+.el-dropdown-menu__item{
+    padding-left:5px ;
+    padding-right: 5px;
+}
+.el-icon-check{
+    padding: 0;
+    float: right;
+    line-height: 35px;
+}
+.el-dropdown-menu li{
+    width: 90px;
 }

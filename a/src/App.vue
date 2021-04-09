@@ -1,22 +1,20 @@
 <template>
   <div id="app" class="wrapper">
     <router-view></router-view>
-    <hello-world></hello-world>
+    <concat-page></concat-page>
   </div>
-
 </template>
 
 <script>
-import HelloWorld from "@/HelloWorld";
+import concatPage from "@/concat-page.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    concatPage,
+  },
+};
 </script>
 
 <style>
-
 </style>

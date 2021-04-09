@@ -7,8 +7,7 @@ const Home = () => import('../view/home/index')
 Vue.use(VueRouter)
 
 // 2.创建router
-const routes = [
-    {
+const routes = [{
         path: '',
         redirect: '/home'
     },

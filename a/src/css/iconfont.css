@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('../../dist/fonts/iconfont.eot?t=1617782630268'); /* IE9 */
+  src: url('../../dist/fonts/iconfont.eot?t=1617782630268#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO0AAsAAAAAB7gAAANoAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqDRIMbATYCJAMICwYABCAFhG0HMBvBBsiuMG7hiaIqCSvHio9fCdOEIjA84uG//Wj3zZ9VTSKaDDFrnsQaabeh0skQMlnsdLqW8Oede0sGhHlvkoDbbh0WkrT9nGbIwgDZ8R3rY4fy5u6EQ2TCTULJ+IpHreMA6/+1xkaoKJ3ctwQK1DO8tgXy+v9/7/SPAn/ZvEC5zDH5UyfAeGtAe2MUSIEWSGCehng1Hcgb/LxNoFaPPHBHR98YCJG5iwJx1aQKCKmY5IHqUC1UduzM4pmoTvfTV/A0+X78RyOEpKLg1h250q6Dpt/08or1UhdhxOs5IO+jwBQgEyc6XYf4Z6kp/mrNVIAB4FzVwW+WR6LT/vEIopJbWQ+6IHpN4kDyUisTyBh8iZ+zVpH3lEZEnD85SRLHjm5CdHKRLCVPYGy8TeWXQKe3iULyNLzu4WsIwDg+ThgLAusP+RmMR1dT+RWneJo4QkwXzVTD1UTrqsMoIrIcRNi5YK03kR5ftKU7QZJHqB/t65wf75a3PidjybU6xEtcjOmsl61U9jT0Xc37Wyy9WuiIFZa4ALlck26mfG477VPplivs/8I8I9md1TM0xfcshL3chw1HQo3QESNyLvjppDZBS/m89fnNXPNVbebKJkwmffnabh2faNWs00+ruTKf/ungXLNjQqL110Zu1tpq1lKtcUObZalZsQ4/bTdOWcl8fSh3UHmcto1uN/ZDQmEo75MU/RKiFPbxMaq/ZqunNzhkX8/2dqBPSS7mgyYA5YqPUfrf/cbdJxths9F1Vddl8KvvkSRQLgOaB6h+h+7gnxITG7IldbXpI4u4O3lZEmQKXKB4lVxfq19zPR1A4QjVihiQVOmGQrUhPNOnoEKdJahUbTPUmtS5v04bxl/kGkzYZxCavYCk0UcoNPuOZ/pPqNDpN1RqDn+odSriT6wzEmZYK8MKxzpSl5GpedzEt/KwtHoE03mnwsrShCliZptRVFxQVM92Yjdma6yxF2gJ5wQR5nGhDnYfdjo9yMs8FtZ4gcG5t6awkHQ9qUDzuECY7RhMwWE6RLUMMWk83EjUmgtrfH4ERs1zUrABSpNXhDE2c3ikWIEiAt6pcpMoz/KIbQFVguMIhGA8XJAO5sCcXsoD8XZPs2AaroAxI+FVo5A3I1RVwf4a17fbBrVcfQpvUqHyjoFXDBMA') format('woff2'),
+  url('../../dist/fonts/iconfont.woff?t=1617782630268') format('woff'),
+  url('../../dist/fonts/iconfont.ttf?t=1617782630268') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../../dist/fonts/iconfont.svg?t=1617782630268#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconshezhi:before {
+  content: "\e7bb";
+}
+
